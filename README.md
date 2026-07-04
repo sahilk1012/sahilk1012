@@ -30,7 +30,7 @@
 
 ### 🟣 About Me
 
-I'm a final-year **B.Tech Computer Science Engineering** student specializing in **Artificial Intelligence, Machine Learning, and applied Data Science**. I engineer end-to-end ML systems — spanning data ingestion, preprocessing, EDA, feature engineering, model training, evaluation, and deployment — with a strong **product engineering mindset** focused on shipping usable, real-world tools rather than notebooks alone.
+I'm a **B.Tech Computer Science Engineering** student specializing in **Artificial Intelligence, Machine Learning,applied Data Science, Web Development and Data Analytics**. I engineer end-to-end ML systems — spanning data ingestion, preprocessing, EDA, feature engineering, model training, evaluation, and deployment — with a strong **product engineering mindset** focused on shipping usable, real-world tools rather than notebooks alone.
 
 My core strengths lie in **Computer Vision** and **Deep Learning** (custom CNN architectures with TensorFlow/Keras), backed by solid **software engineering fundamentals** (DSA, OOP, DBMS, Operating Systems) and **full-stack deployment** experience through Streamlit and front-end engineering. I've solved **480+ competitive programming problems** and hold a **HackerRank 5-Star rating in Problem Solving (Top 15%)**.
 
