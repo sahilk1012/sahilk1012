@@ -182,7 +182,7 @@ Applied Python-based statistical methods across real-world datasets to deliver r
 | Recognition | Details |
 |:--|:--|
 | 🏆 HackerRank 5-Star — Problem Solving | Top 15% globally |
-| 💻 480+ Problems Solved | Competitive programming on CodeChef |
+| 💻 Competitive programming on CodeChef |
 | 🚀 Smart India Hackathon (SIH) 2025 | Selected at college level for innovative problem-solving |
 | 👥 Founder, Zero One Coding Club | Mentored 50+ peers, organized 5+ monthly coding contests |
 
