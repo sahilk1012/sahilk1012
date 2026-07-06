@@ -206,7 +206,7 @@ Applied Python-based statistical methods across real-world datasets to deliver r
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sahil_1021)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sahil_1021)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5%E2%98%85%20Problem%20Solving-A855F7?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sahil_1021)
-[![CodeChef](https://img.shields.io/badge/CodeChef-480%2B%20Solved-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sahil_1021)
+[![CodeChef]](https://www.codechef.com/users/sahil_1021)
 
 </div>
 
