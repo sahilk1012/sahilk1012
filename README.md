@@ -9,7 +9,7 @@
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-8B5CF6?style=flat-square&labelColor=0D1117)
 ![CGPA](https://img.shields.io/badge/CGPA-7.94-6366F1?style=flat-square&labelColor=0D1117)
 ![Graduating](https://img.shields.io/badge/Graduating-2026-A855F7?style=flat-square&labelColor=0D1117)
-![Location](https://img.shields.io/badge/Location-Motihari%2C%20Bihar%2C%20India-7C3AED?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-NewDelhi%2C%20NewDelhi%2C%20India-7C3AED?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=white)
 
 <br/>
 
