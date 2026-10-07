@@ -152,10 +152,6 @@ Built and structured core e-commerce layouts, resolving cart UI mechanics and de
 
 ### 🟣 Experience
 
-**PMIS Intern**  
-**Steel Authority of India Limited (SAIL) - IISCO Steel Plant** · Burnpur, West Bengal  
-Selected for a 9-month internship program under the Prime Minister's Internship Scheme, focusing on industrial technical workflows.
-
 **MERN / Web Developer**  
 **GangaKoshi Agritech Pvt. Ltd.** · May 2025 – Present  
 - Developed interactive React.js frontend components for modern web platforms.
